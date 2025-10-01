@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's Up? I'm Subhash</h1>
 
-<!--
-**Khambampati-Subhash/Khambampati-Subhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">
+  AI Enthusiast | Golang & Python Developer | Cloud & DevOps Explorer | Hackathon Winner 🏆
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+</div>
+
+###
+
+<h3 align="center">🚀 About Me</h3>
+
+<p align="center">
+🎓 B.Tech AI @ Amrita Vishwa Vidyapeetham (GPA: 8.86)<br/>
+💻 AI Intern @ Margati | Software Intern @ Thales Group<br/>
+🧠 Passionate about AI in Healthcare, LLMs, and Scalable Backend Systems<br/>
+🏆 Winner of multiple hackathons (GE Healthcare, Google Build with AI, Sustainable Development Ideathon)<br/>
+📜 Published research in IEEE (AI for Healthcare & EEG Analysis)<br/>
+</p>
+
+###
+
+<h3 align="center">🌟 Featured Projects</h3>
+
+- **MediScribe (Final Year Project)** – Healthcare AI app for transcription & summarization, reducing documentation time by 50%+  
+- **Fine-Tuned LLaMA-3 on Medical Data** – Improved medical dialogue accuracy by 20%  
+- **Saraswati AI** – AI tutor & quiz generator for affordable education  
+- **Prompt-Based XAI Tool** – ECG classification + Explainable AI chatbot  
+
+###
+
+<h3 align="center">🏅 Achievements</h3>
+
+- 🥇 **1st Prize** – Sustainable Development Ideathon (AI for Farming, +20% yield)  
+- 🥈 **2nd Runner Up** – Google Build with AI GDG Kochi (LLM-powered EdTech app)  
+- 🥈 **1st Runner Up** – GE Healthcare Hackathon (Explainable AI for ECG)  
+
+###
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<div align="center">
+  <a href="mailto:subhashkhambampati74@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhash-khambampati">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
