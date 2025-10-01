@@ -33,12 +33,12 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<p align="center">
-- 🎓 B.Tech AI @ Amrita Vishwa Vidyapeetham (GPA: 8.86)<br/>
+
+-  🎓 B.Tech AI @ Amrita Vishwa Vidyapeetham (GPA: 8.86)<br/>
 - 🧠 Passionate about AI in Healthcare, LLMs, and Scalable Backend Systems<br/>
 - 🏆 Winner of multiple hackathons (GE Healthcare, Google Build with AI, Sustainable Development Ideathon)<br/>
 - 📜 Published research in IEEE (AI for Healthcare & EEG Analysis)<br/>
-</p>
+
 
 <h3 align="center">🏅 Achievements</h3>
 
