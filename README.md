@@ -15,10 +15,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
@@ -31,7 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
 </div>
 
 ###
@@ -40,22 +35,10 @@
 
 <p align="center">
 🎓 B.Tech AI @ Amrita Vishwa Vidyapeetham (GPA: 8.86)<br/>
-💻 AI Intern @ Margati | Software Intern @ Thales Group<br/>
 🧠 Passionate about AI in Healthcare, LLMs, and Scalable Backend Systems<br/>
 🏆 Winner of multiple hackathons (GE Healthcare, Google Build with AI, Sustainable Development Ideathon)<br/>
 📜 Published research in IEEE (AI for Healthcare & EEG Analysis)<br/>
 </p>
-
-###
-
-<h3 align="center">🌟 Featured Projects</h3>
-
-- **MediScribe (Final Year Project)** – Healthcare AI app for transcription & summarization, reducing documentation time by 50%+  
-- **Fine-Tuned LLaMA-3 on Medical Data** – Improved medical dialogue accuracy by 20%  
-- **Saraswati AI** – AI tutor & quiz generator for affordable education  
-- **Prompt-Based XAI Tool** – ECG classification + Explainable AI chatbot  
-
-###
 
 <h3 align="center">🏅 Achievements</h3>
 
