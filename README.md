@@ -80,12 +80,17 @@
 <h2 align="center">✦ &nbsp;GitHub Analytics&nbsp; ✦</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khambampati-Subhash&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" height="180" />
   <img src="https://streak-stats.demolab.com?user=Khambampati-Subhash&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=a855f7&fire=8b5cf6&currStreakLabel=a855f7" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khambampati-Subhash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khambampati-Subhash&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khambampati-Subhash&theme=tokyonight&utcOffset=5.5" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khambampati-Subhash&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khambampati-Subhash&theme=tokyonight" height="200" />
 </p>
 
 <p align="center">
@@ -99,11 +104,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khambampati-Subhash/Khambampati-Subhash/output/github-snake.svg" />
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Khambampati-Subhash/Khambampati-Subhash/output/github-snake.svg" width="95%" />
   </picture>
-</p>
-
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Khambampati-Subhash&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
 </p>
 
 <br/>
