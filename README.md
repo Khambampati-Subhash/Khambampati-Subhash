@@ -1,108 +1,120 @@
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Code%20of%20the%20Wild&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=One%20developer.%20Zero%20fear.%20Infinite%20compile%20errors%20survived.&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=230&section=header&text=Hi,%20I'm%20Subhash&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Backend%20Engineering&descAlignY=57&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">⚡ "If you don’t take risks, you can’t create a future!" ⚡</h1>
-
+<!-- ══════════════════════════ TYPING TAGLINE ══════════════════════════ -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/219/219969.gif" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=720&height=55&lines=AI+%26+Machine+Learning+Engineer;Building+intelligent+systems+that+think+%F0%9F%A7%A0;LLMs+%C2%B7+AI+Agents+%C2%B7+Healthcare+AI;IEEE+Published+Researcher+%F0%9F%93%9C" alt="Typing SVG" />
 </p>
 
-###
-
+<!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
 <p align="center">
-  <a href="https://github.com/Khambampati-Subhash">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=AI+Renegade+%F0%9F%A4%96;Golang+%26+Python+Gunslinger+%F0%9F%94%AB;Cloud+%26+DevOps+Frontier+Scout+%E2%98%81%EF%B8%8F;Hackathon+Outlaw+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <i>In a world obsessed with shipping to production... one engineer stays in the lab — building, breaking, and rebuilding for the thrill of it.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khambampati-Subhash&label=Screenings&color=8E2DE2&style=for-the-badge" alt="views" />
-</p>
-
----
-
-<h3 align="center">🗺️ The Legend</h3>
-
-<p align="center">
-  They said the model wouldn't converge. They said the notebook had one cell too many.<br/>
-  He grabbed his terminal, cracked his knuckles, and whispered: <b>"let me just try one more thing."</b>
-</p>
-
----
-
-<h3 align="center">🛠️ Arsenal & Weapons of Choice</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,java,linux,docker,kubernetes,aws,tensorflow,pytorch,fastapi,flask,graphql,postgres,tailwind" height="65" />
-</div>
-
-<p align="center">
-  🔹 <b>The AI Strike Force</b> <i>(Elite)</i> — AI/ML/DL · LLMs · Agent Frameworks (LangChain, MCP, CrewAI)<br/>
-  🔹 <b>The Backend Battalion</b> — Go & Python firepower · APIs · systems that (mostly) hold the line<br/>
-  🔹 <b>The DevOps Recon Unit</b> <i>(Rookie, still in bootcamp)</i> — just enough Docker & Kubernetes to be dangerous, AWS on training wheels ☁️🛞
-</p>
-
----
-
-<h3 align="center">🎞️ Origin Story</h3>
-
-- 🎓 Forged in the halls of **B.Tech AI @ Amrita Vishwa Vidyapeetham** — surviving on a legendary **GPA of 8.86**
-- 🧠 On a relentless quest through **AI in Healthcare, LLMs, and AI Agents** — where no bug is left unsquashed
-- 🏆 Battle-tested **Hackathon Outlaw** — GE Healthcare, Google Build with AI, Sustainable Development
-- 📜 Chronicled in the ancient scrolls of **IEEE** — Published Research (AI for Healthcare & EEG Analysis)
-
----
-
-<h3 align="center">🏅 Trophies From the Field</h3>
-
-- 🥇 **1st Prize** — Sustainable Development Ideathon *(AI for Farming, +20% yield — feeding nations, one model at a time)*
-- 🥈 **2nd Runner Up** — Google Build with AI, GDG Kochi *(an LLM-powered EdTech app that refused to lose)*
-- 🥈 **1st Runner Up** — GE Healthcare Hackathon *(Explainable AI for ECG — reading hearts, saving lives)*
-
----
-
-<h3 align="center">📊 Mission Logs</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khambampati-Subhash&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Khambampati-Subhash&theme=tokyonight&column=4&margin-w=10&margin-h=10" height="150" />
-</div>
-
----
-
-<h3 align="center">📡 Signal the Hero</h3>
-
-<p align="center"><i>Every legend needs a co-pilot. Send a transmission.</i></p>
-
-<div align="center">
-  <a href="mailto:subhashkhambampati74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-  </a>
   <a href="https://www.linkedin.com/in/subhash-khambampati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
+  <a href="mailto:subhashkhambampati74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+  <a href="https://github.com/Khambampati-Subhash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Khambampati-Subhash&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+</p>
 
----
+<br/>
 
-<h3 align="center">✨ Post-Credits Scene</h3>
-
-<p align="center"><i>
-  "With great power comes great electricity bill." ⚡
-</i></p>
+<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
+<h2 align="center">✦ &nbsp;About Me&nbsp; ✦</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=500&height=45&lines=Subhash+will+return...+%F0%9F%8E%AC" alt="Subhash will return" />
+  🎓 &nbsp;<b>B.Tech in Artificial Intelligence</b> @ Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; <b>GPA 8.86</b><br/>
+  🧠 &nbsp;Passionate about <b>LLMs</b>, <b>AI Agents</b>, and <b>AI for Healthcare</b><br/>
+  🔬 &nbsp;<b>IEEE-published researcher</b> — AI for Healthcare &amp; EEG signal analysis<br/>
+  🌱 &nbsp;Currently deepening my craft in <b>agentic AI</b> and <b>scalable backends</b>
+</p>
+
+<blockquote align="center">
+  <i>"If you don't take risks, you can't create a future."</i>
+</blockquote>
+
+<br/>
+
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
+<h2 align="center">✦ &nbsp;Tech Stack&nbsp; ✦</h2>
+
+<p align="center"><b>Languages &amp; AI/ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,java,tensorflow,pytorch,sklearn,opencv&theme=dark" height="55" />
+</p>
+
+<p align="center"><b>Backend &amp; Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,graphql,postgres,mysql,redis,git&theme=dark" height="55" />
+</p>
+
+<p align="center"><b>Cloud &amp; DevOps</b> &nbsp;<sub><i>(leveling up 🌱)</i></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" height="55" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════ -->
+<h2 align="center">✦ &nbsp;Highlights &amp; Achievements&nbsp; ✦</h2>
+
+<div align="center">
+
+| 🏆 | Achievement | What I Built |
+|:--:|:------------|:-------------|
+| 🥇 | **1st Prize** — Sustainable Development Ideathon | AI for smart farming — **+20% crop yield** |
+| 🥈 | **1st Runner-Up** — GE Healthcare Hackathon | **Explainable AI** for ECG diagnostics |
+| 🥉 | **2nd Runner-Up** — Google Build with AI · GDG Kochi | **LLM-powered** EdTech platform |
+| 📜 | **IEEE Publication** | AI for Healthcare &amp; EEG signal analysis |
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
+<h2 align="center">✦ &nbsp;GitHub Analytics&nbsp; ✦</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khambampati-Subhash&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Khambampati-Subhash&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=a855f7&fire=8b5cf6&currStreakLabel=a855f7" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=140&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khambampati-Subhash&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a855f7&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khambampati-Subhash&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=a855f7&line=8b5cf6&point=c9d1d9" width="95%" />
+</p>
+
+<!-- ══════════════════════════ CONTRIBUTION SNAKE ══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khambampati-Subhash/Khambampati-Subhash/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khambampati-Subhash/Khambampati-Subhash/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Khambampati-Subhash/Khambampati-Subhash/output/github-snake.svg" width="95%" />
+  </picture>
+</p>
+
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Khambampati-Subhash&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+intelligent+together." alt="Footer" />
+</p>
+
+<p align="center"><i>⚡ "With great power comes great electricity bill." ⚡</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=140&section=footer&animation=fadeIn" width="100%" />
 </p>
