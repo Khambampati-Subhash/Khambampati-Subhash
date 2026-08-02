@@ -10,6 +10,9 @@
 
 <!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
 <p align="center">
+  <a href="https://khambampati-subhash.github.io">
+    <img src="https://img.shields.io/badge/Live_Portfolio-8B5CF6?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/subhash-khambampati">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,6 +40,22 @@
 <blockquote align="center">
   <i>"If you don't take risks, you can't create a future."</i>
 </blockquote>
+
+<br/>
+
+<!-- ══════════════════════════ PORTFOLIO ══════════════════════════ -->
+<h2 align="center">✦ &nbsp;Portfolio&nbsp; ✦</h2>
+
+<p align="center">
+  An interactive <b>3D portfolio</b> built with Three.js — a live Raft cluster,<br/>
+  replicating log segments, and everything I've shipped.
+</p>
+
+<p align="center">
+  <a href="https://khambampati-subhash.github.io">
+    <img src="https://img.shields.io/badge/Visit-khambampati--subhash.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" />
+  </a>
+</p>
 
 <br/>
 
